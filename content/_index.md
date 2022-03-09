@@ -1,15 +1,11 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+We are a group from EiT - BI2098 at NTNU
+making an educational game at the botanical garden
+in Trondheim.
 
-I love all things computer science and maths.
-
-Have a look at some of my working [projects].
-
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
+ 	
 
 
 
